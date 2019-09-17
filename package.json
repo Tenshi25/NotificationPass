@@ -1,0 +1,11 @@
+{
+  "name": "ue-paas-app_server",
+  "version": "1.0.0",
+  "description": "test trannois",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "urbaniec remi",
+  "license": "ISC"
+}

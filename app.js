@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 const webpush = require('web-push');
-const vapidKeys = require('./NOTversioned/vapidKeys.js');
+const vapidKeys = require('./NOTversioned/vapid.js');
 
 // initialise le module webpush avec les clefs VAPId et les informations de contact
 webpush.setVapidDetails(

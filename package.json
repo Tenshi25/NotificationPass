@@ -5,11 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node app.js"
   },
   "author": "urbaniec remi",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "web-push": "^3.3.5"
-  }
+  "license": "ISC"
 }

@@ -5,8 +5,13 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node app.js"
+    "start": "node app.js"
   },
   "author": "urbaniec remi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.0",
+    "web-push": "^3.3.5"
+  }
 }

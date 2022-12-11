@@ -10,7 +10,7 @@
   "author": "urbaniec remi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "sqlite3": "^4.1.0",
     "web-push": "^3.3.5"
   }
